@@ -1,2 +1,2 @@
 # BreaboardToSchematic
-![Repo Logo](ex.png)
+![Repo Logo](Images/ex.png)
